@@ -23,7 +23,7 @@ public class fileAction {
                 } else {
                     String[] parts = line.split(";", 2);
                     Question q = new Question(parts[0], parts[1]);
-                    question[i][j] = q;
+                    question[i][j - 1] = q;
                 }
 
                 i++;
@@ -33,8 +33,6 @@ public class fileAction {
                 }
 
             }
-            /* m = new Movie(parts[0], parts[1], parts[2], parts[3], parts[4], parts[5], parts[6], parts[7], parts[8], parts[9]);
-            movies.add(m); */
         }
 
 
