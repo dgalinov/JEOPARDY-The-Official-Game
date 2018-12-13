@@ -4,7 +4,7 @@ public class JeopardyView {
     static JTextArea titleMenu = new JTextArea("JEOPARDY");
 
     public void main(String[] args) {
-
+        ShowMainMenu();
     }
     private static void ShowMainMenu() {
         JFrame frameMainMenu = new JFrame();
@@ -20,5 +20,8 @@ public class JeopardyView {
     }
     private static void ShowEndGame() {
         JFrame frameCredits = new JFrame();
+    }
+    private static void addPanel() {
+
     }
 }
