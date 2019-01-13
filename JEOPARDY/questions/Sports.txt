@@ -1,0 +1,10 @@
+¿Cual es la selección de futbol con más Copas del Mundo?::100
+Alemania;;0::Italia;;0::Brasil;;1::Argentina;;0
+¿A qué deporte juega José María Olazabal?::200
+Boxeo;;0::Carreras de Fondo;;0::Atletismo;;0::Golf;;1
+¿En qué ciudad de los EEUU tienen sede los Nuggets, el equipo de la NBA?::300
+Denver;;1::Los Angeles;;0::Dallas;;0::New York;;0
+¿Cuántos títulos de liga tienen los Yankees de New York?::400
+31;;0::29;;0::36;;0::40;;1
+¿Quien es el máximo goleador de la Premier League?::500
+Alan Shearer;;1::Wayne Rooney;;0::Andrew Cole;;0::Frank Lampard;;0

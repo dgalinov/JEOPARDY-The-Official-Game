@@ -1,0 +1,10 @@
+¿Cauntas lineas tiene un pentagrama?::100
+Cinco líneas y cuatro espacios;;1::Cuatro lineas y cinco espacios;;0::Cuatro líneas y tres espacios;;0::Seis líneas y cinco espacios;;0
+¿Quién fue el vocalista de el grupo Británico Queens?::200
+Kurt Cobain;;0::Freddie Mercury;;1::Jhon Lennon;;0::Mick Jagger;;0
+¿Cómo se llama la cantante del grupo belga Vaya con Dios?::300
+Soledad Giménez;;0::Amaia Montero;;0::Dani Klein;;1::Joey Tempest;;0
+¿De que grupo fue vocalista Annie Lennox?::400
+Eurythmics;;1::Bon Jovi;;0::Europe;;0::Creedence;;0
+¿Cómo se tituló el primer álbum de ABBA?::500
+It Won't Be Long;;0::All I've Got to Do;;0::Ring Ring;;1::All My Loving;;0

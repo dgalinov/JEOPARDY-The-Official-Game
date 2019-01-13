@@ -1,0 +1,10 @@
+¿Quién fue uno de los fundadores de Apple?::100
+Paul Allen;;0::Bill Gates;;0::Steve Jobs;;1::Lawrence J Elison;;0
+Segun la mitología griega ¿Quienes eran cíclopes?::200
+Gigantes con un solo ojo;;1::Mujeres guerreras;;0::Una generacion de dioses;;0::Héroes que buscaban el vellocino de oro;;0
+¿De dónde son las típicas Enchiladas?::300
+Chile;;0::Brasil;;0::México;;1::Cuba;;0
+¿De qué país es tradicional el traje Hanbok?::400
+Venezuela;;0::Mongolia;;0::Corea;;1::Nepal;;0
+¿Qué es el 'talon de aquiles' de una persona?::500
+Hace referencia a su estatus social;;0::Su punto debil;;1::Su mayor fortaleza;;0::Su descendiente primogénito;;0

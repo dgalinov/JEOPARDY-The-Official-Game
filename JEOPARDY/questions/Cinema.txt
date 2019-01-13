@@ -1,0 +1,10 @@
+¿Quien presenta la primera temporada del programa 'Estas no son las noticias'?::100
+Emilio Aragón;;0::Javier Sardá;;0::Christian Gálvez;;0::Quequé;;1
+¿Quién es el protagonista de 'Tesis' de Alejandro Amenábar?::200
+Fele Martínez;;0::Jorge Sanz;;0::Eduardo Noriega;;1::José Coronado;;0
+¿Quién es el Padre Amaro en 'El crimen del Padre Amaro'?::300
+Gael García Bernal;;1::Carmelo Gómez;;0::Gabino Diego;;0::Jorge Sanz;;0
+¿Quién interpreta a Sam Malone en Cheers?::400
+Woody Harrelson;;0::Ted Danson;;1::J.R. Eweng;;0::Chuck Norris;;0
+¿Con qué película ganó Penelope Cruz su primer Oscar?::500
+Los abrazos rotos;;0::Lluvia en los zapatos;;0::Vivky Cristina Barcelona;;1::Belle epoque;;0

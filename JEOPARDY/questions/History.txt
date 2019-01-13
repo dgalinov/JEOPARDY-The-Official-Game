@@ -1,0 +1,10 @@
+¿En que año se descubrió américa?::100
+1317;;0::1428;;0::1546;;0::1492;;1
+¿En que año se hundió el Titanic?::200
+1913;;0::1912;;1::1910;;0::1915;;0
+¿Quién hizo construir la Gran Esfinge de Egipto?::300
+Kefrén;;1::Keops;;0::Micerino;;0::Ramsés II;;0
+¿Quien eligió a Bizancio como sede de la nueva capital del Imperio Romano?::400
+Julio Cesar;;0::Cesar Augusto;;0::Caracalla;;0::Constantino I;;1
+¿La erupción de que volcán sepultó la ciudad romana de Pompeya?::500
+Etna;;0::Nevado del Ruiz;;0::Pacaya;;0::Vesuvio;;1

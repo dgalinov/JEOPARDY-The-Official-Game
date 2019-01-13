@@ -1,0 +1,10 @@
+¿Cual es la unidad de fuerza?::100
+Ohmnio;;0::Hercio;;0::Newton;;1::Pascal;;0
+¿Qué protocolo de comunicaciones se usa en internet?::200
+HTTP;;0::Novel;;0::TCP/IP;;1::NetBEUI;;0
+¿Cuál es el nombre científico de la planta de marihuana?::300
+Solanum lycopersicum;;0::Cannabis sativa;;1::Lactuca sativa;;0::Capsicum annuum;;0
+¿Que es la amaxofobia?::400
+Miedo a los cementerios;;0::Miedo a los espacios abiertos;;0::Temor a conducir vehiculos;;1::Miedo a las mujeres hermosas;;0
+¿Quién descubrió los rayos X?::500
+Wilhem Conrad Röntgen;;1::Victor Franz Hess;;0::Jhon William Strutt;;0::James Chadwick;;0

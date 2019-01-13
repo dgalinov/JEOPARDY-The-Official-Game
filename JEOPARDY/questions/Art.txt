@@ -1,0 +1,10 @@
+¿Con que otro nombre se conoce la fabula de Aracné de Diego Velázquez?::100
+Las Hilanderas;;1::Los Borrachos;;0::Las Meninas;;0::El Mendigo;;0
+¿Que tecnica usó Goya en La carga de los mamelucos?::200
+Pastel;;0::Oleo sobre lienzo;;1::Temple;;0::Acuarela;;0
+¿Que es la antonomasia? Una figura literaria que...::300
+usa paráfisis verbales;;0::añade uno o más fonemas a una palabra;;0::sustituye un nombre propio por otra expresion;;1::liga las vocales formando un hiato;;0
+¿Quién escribió Ulises en 1922?::400
+Paulo Coelho;;0::Miguel de Cervantes;;0::Jorge Luis Borges;;0::James Joyce;;1
+¿Quién escribió 'La insólita y gloriosa hazaña del cipote de Archidona'?::500
+Vicente Aleixandre;;0::Camilo José Cela;;1::Jacinto Benavente;;0::Juan Ramón Jiménez;;0

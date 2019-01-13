@@ -1,0 +1,10 @@
+¿En que provincia Argentina se encuentra el pico más alto de América?::100
+Neuquén;;0::Salta;;0::San Juan;;0::Mendoza;;1
+¿Cual es el lago más grande del mundo situado dentro de otro lago?::200
+Lago Chad;;0::Lago Winnipeg;;0::Lago manitou;;1::Lago Eire;;0
+¿En que país está la ciudad de Carapeguá?::300
+Hungría;;0::Alemania;;0::Bolivia;;0::Paraguay;;1
+¿Cuál es la montaña más alta de América?::400
+Puncak Jaya;;0::Aconcagua;;1::Kilimanjaro;;0::Monte Elburs;;0
+¿Cuáles son los colores de la bandera de Etiopía?::500
+Verde, amarillo y rojo;;1::Verde y blanco;;0::Verde, amarillo y azul;;0::Rojo, blanco y negro;;0
